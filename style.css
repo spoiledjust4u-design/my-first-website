@@ -13,3 +13,18 @@ href="style.css">
 href="https://example.com">My link</a<
 </body>
 </html>
+body {
+  background-color: lightblue; 
+  font-family: Ariel,
+sans-serif;
+  padding: 20px;
+}
+h1 {
+  color: darkblue;
+}
+p {
+  font-size: 20px;
+}
+a {
+  color: purple;
+}
